@@ -1,0 +1,23 @@
+{
+  "name": "@codexporer.io/expo-picker-input",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "color": "*",
+    "lodash": "*",
+    "react-magnetic-di": "*",
+    "react-native": "*",
+    "react-native-hsv-color-picker": "*",
+    "react-native-paper-dates": "*",
+    "react-native-paper": "*",
+    "react-sweet-state": "*",
+    "styled-components": "*",
+    "@shopify/flash-list": "*",
+    "@react-navigation/native": "*",
+    "@codexporer.io/react-hooks": "*",
+    "@codexporer.io/react-test-utils": "*",
+    "@codexporer.io/expo-appbar": "*"
+  }
+}
